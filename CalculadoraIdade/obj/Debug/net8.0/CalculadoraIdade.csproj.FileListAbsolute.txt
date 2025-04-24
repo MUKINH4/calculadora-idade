@@ -1,0 +1,28 @@
+C:\Users\guslo\Desktop\Faculdade\SEGUNDO ANO\Advanced Business Development with .NET\CalculadoraIdade\CalculadoraIdade\bin\Debug\net8.0\CalculadoraIdade.exe
+C:\Users\guslo\Desktop\Faculdade\SEGUNDO ANO\Advanced Business Development with .NET\CalculadoraIdade\CalculadoraIdade\bin\Debug\net8.0\CalculadoraIdade.deps.json
+C:\Users\guslo\Desktop\Faculdade\SEGUNDO ANO\Advanced Business Development with .NET\CalculadoraIdade\CalculadoraIdade\bin\Debug\net8.0\CalculadoraIdade.runtimeconfig.json
+C:\Users\guslo\Desktop\Faculdade\SEGUNDO ANO\Advanced Business Development with .NET\CalculadoraIdade\CalculadoraIdade\bin\Debug\net8.0\CalculadoraIdade.dll
+C:\Users\guslo\Desktop\Faculdade\SEGUNDO ANO\Advanced Business Development with .NET\CalculadoraIdade\CalculadoraIdade\bin\Debug\net8.0\CalculadoraIdade.pdb
+C:\Users\guslo\Desktop\Faculdade\SEGUNDO ANO\Advanced Business Development with .NET\CalculadoraIdade\CalculadoraIdade\obj\Debug\net8.0\CalculadoraIdade.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\guslo\Desktop\Faculdade\SEGUNDO ANO\Advanced Business Development with .NET\CalculadoraIdade\CalculadoraIdade\obj\Debug\net8.0\CalculadoraIdade.AssemblyInfoInputs.cache
+C:\Users\guslo\Desktop\Faculdade\SEGUNDO ANO\Advanced Business Development with .NET\CalculadoraIdade\CalculadoraIdade\obj\Debug\net8.0\CalculadoraIdade.AssemblyInfo.cs
+C:\Users\guslo\Desktop\Faculdade\SEGUNDO ANO\Advanced Business Development with .NET\CalculadoraIdade\CalculadoraIdade\obj\Debug\net8.0\CalculadoraIdade.csproj.CoreCompileInputs.cache
+C:\Users\guslo\Desktop\Faculdade\SEGUNDO ANO\Advanced Business Development with .NET\CalculadoraIdade\CalculadoraIdade\obj\Debug\net8.0\CalculadoraIdade.dll
+C:\Users\guslo\Desktop\Faculdade\SEGUNDO ANO\Advanced Business Development with .NET\CalculadoraIdade\CalculadoraIdade\obj\Debug\net8.0\refint\CalculadoraIdade.dll
+C:\Users\guslo\Desktop\Faculdade\SEGUNDO ANO\Advanced Business Development with .NET\CalculadoraIdade\CalculadoraIdade\obj\Debug\net8.0\CalculadoraIdade.pdb
+C:\Users\guslo\Desktop\Faculdade\SEGUNDO ANO\Advanced Business Development with .NET\CalculadoraIdade\CalculadoraIdade\obj\Debug\net8.0\CalculadoraIdade.genruntimeconfig.cache
+C:\Users\guslo\Desktop\Faculdade\SEGUNDO ANO\Advanced Business Development with .NET\CalculadoraIdade\CalculadoraIdade\obj\Debug\net8.0\ref\CalculadoraIdade.dll
+C:\Users\samue\Downloads\CP1 C#\CalculadoraIdade\CalculadoraIdade\bin\Debug\net8.0\CalculadoraIdade.exe
+C:\Users\samue\Downloads\CP1 C#\CalculadoraIdade\CalculadoraIdade\bin\Debug\net8.0\CalculadoraIdade.deps.json
+C:\Users\samue\Downloads\CP1 C#\CalculadoraIdade\CalculadoraIdade\bin\Debug\net8.0\CalculadoraIdade.runtimeconfig.json
+C:\Users\samue\Downloads\CP1 C#\CalculadoraIdade\CalculadoraIdade\bin\Debug\net8.0\CalculadoraIdade.dll
+C:\Users\samue\Downloads\CP1 C#\CalculadoraIdade\CalculadoraIdade\bin\Debug\net8.0\CalculadoraIdade.pdb
+C:\Users\samue\Downloads\CP1 C#\CalculadoraIdade\CalculadoraIdade\obj\Debug\net8.0\CalculadoraIdade.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\samue\Downloads\CP1 C#\CalculadoraIdade\CalculadoraIdade\obj\Debug\net8.0\CalculadoraIdade.AssemblyInfoInputs.cache
+C:\Users\samue\Downloads\CP1 C#\CalculadoraIdade\CalculadoraIdade\obj\Debug\net8.0\CalculadoraIdade.AssemblyInfo.cs
+C:\Users\samue\Downloads\CP1 C#\CalculadoraIdade\CalculadoraIdade\obj\Debug\net8.0\CalculadoraIdade.csproj.CoreCompileInputs.cache
+C:\Users\samue\Downloads\CP1 C#\CalculadoraIdade\CalculadoraIdade\obj\Debug\net8.0\CalculadoraIdade.dll
+C:\Users\samue\Downloads\CP1 C#\CalculadoraIdade\CalculadoraIdade\obj\Debug\net8.0\refint\CalculadoraIdade.dll
+C:\Users\samue\Downloads\CP1 C#\CalculadoraIdade\CalculadoraIdade\obj\Debug\net8.0\CalculadoraIdade.pdb
+C:\Users\samue\Downloads\CP1 C#\CalculadoraIdade\CalculadoraIdade\obj\Debug\net8.0\CalculadoraIdade.genruntimeconfig.cache
+C:\Users\samue\Downloads\CP1 C#\CalculadoraIdade\CalculadoraIdade\obj\Debug\net8.0\ref\CalculadoraIdade.dll
