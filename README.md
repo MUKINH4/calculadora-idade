@@ -2,6 +2,15 @@
 
 Uma aplicação de console desenvolvida em **C#** que calcula a idade do usuário com base na data de nascimento e verifica se é maior de idade para obtenção da CNH.
 
+## 🔸 INTEGRANTES
+
+Samuel Heitor - RM 556731
+Renato David - RM 555627
+Lucas Nicolini - RIM 55/613
+Gustavo Lopes - RM 556859
+Gabriel Jablonski - RM 555452
+Matheus Munuera - RM 557812
+
 ## 🔹 Recursos
 
 * Cálculo preciso de idade considerando mês e dia
